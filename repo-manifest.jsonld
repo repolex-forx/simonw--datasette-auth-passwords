@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/simonw/datasette-auth-passwords/commit/bb96899c84395bb40e903b0da5e1e7cdb5d8c4dd",
       "git:hexsha": "bb96899c84395bb40e903b0da5e1e7cdb5d8c4dd",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "1.1.1"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "1.1.1",
+      "repolex:parsedAt": "2026-10-18T05:11:32.646577+00:00"
     },
     {
       "@id": "https://repolex.ai/r/simonw/datasette-auth-passwords/commit/1939f3bb0c0473a9f6294615a808123b1bfc081f",
