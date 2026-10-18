@@ -1,0 +1,11 @@
+{
+  "org": "simonw",
+  "repo": "datasette-auth-passwords",
+  "versions": [
+    {
+      "commit": "bb96899c84395bb40e903b0da5e1e7cdb5d8c4dd",
+      "tag": "1.1.1",
+      "parsed_at": "2026-10-18T05:11:32.647116+00:00"
+    }
+  ]
+}
