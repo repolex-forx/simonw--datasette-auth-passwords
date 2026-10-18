@@ -1,0 +1,32 @@
+{
+  "manifest_version": "1.0",
+  "org": "simonw",
+  "repo": "datasette-auth-passwords",
+  "versions": [
+    {
+      "commit": "bb96899c84395bb40e903b0da5e1e7cdb5d8c4dd",
+      "parsed_at": "2026-10-18T05:09:59.692935+00:00",
+      "tag": "1.1.1",
+      "filetree": "filetree/bb96899c84395bb40e903b0da5e1e7cdb5d8c4dd.nq.gz",
+      "blobs": [
+        "blob/150fd2fa9b06321f5c66139afb5028276b8d5ba9.nq.gz",
+        "blob/65af5fa713f65e3fcca7c393cb6145da8e31ab17.nq.gz",
+        "blob/8d976dbd314d8b3c53429659f499618ccd48d650.nq.gz",
+        "blob/230e31dcde10714ff53e5f65df0879b029025076.nq.gz",
+        "blob/10718c94b35f7cbfb8c914691e66f8e938e214ad.nq.gz",
+        "blob/b1a7f7542cdd5978aa4695e2cec995030d568576.nq.gz",
+        "blob/53605b7a5ec51bc95dca4fb43fdb350bf9362435.nq.gz",
+        "blob/641c4b55d03cd3ba3f2184b0a448b173766dcd7e.nq.gz",
+        "blob/6ecd8364dec38630f6f726b515d622eeed5117b6.nq.gz",
+        "blob/b7f99b96f6dc3f4a302bd66d2c2d47723c339b25.nq.gz",
+        "blob/ea47dfbd6469152f24cf64ef3562852ef334c97d.nq.gz",
+        "blob/024a80cd9e5b28cf9113ae2082751ebefd2a70f7.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
